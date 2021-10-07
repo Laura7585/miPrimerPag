@@ -8,6 +8,8 @@ public class Grupo22Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Grupo22Application.class, args);
+	
+	
 	}
 
 }
